@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\nguyen\\.android\\build-cache\\dd316b0799cbba0ec356501521c528570c9612e9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\nguyen\\.android\\build-cache\\dd316b0799cbba0ec356501521c528570c9612e9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

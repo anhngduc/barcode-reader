@@ -1,0 +1,7 @@
+#Mon Jul 24 19:41:23 KST 2017
+base.0=D\:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2f89cd5b6d64e7db3d8ee9cf838af8fdc017b65d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8e0f5c9edc0df73a206b8a002d099225191b6676\\classes.dex
+base.1=D\:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8e0f5c9edc0df73a206b8a002d099225191b6676
+file.0=D\:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2f89cd5b6d64e7db3d8ee9cf838af8fdc017b65d\\classes.dex

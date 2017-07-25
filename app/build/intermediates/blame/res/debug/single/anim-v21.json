@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\nguyen\\.android\\build-cache\\af40a0858ba33aee691e0d5744fef1a03ae34c05\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\nguyen\\.android\\build-cache\\af40a0858ba33aee691e0d5744fef1a03ae34c05\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\nguyen\\.android\\build-cache\\af40a0858ba33aee691e0d5744fef1a03ae34c05\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]
